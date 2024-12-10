@@ -17,7 +17,7 @@ function hasCycle(graph) {
             }
         }
 
-        return false; // No cycle found
+        return false; 
     }
 
     // Array to track visited nodes
@@ -32,5 +32,5 @@ function hasCycle(graph) {
         }
     }
 
-    return false; // No cycle found
+    return false;
 }

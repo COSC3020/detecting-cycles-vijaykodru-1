@@ -31,4 +31,6 @@ The above website gave me a good idea of doing DFS
 
 I looked at the following repository for understanding how they initialized their visited array. However I made sure that I set everything inside the visited array to be false. So I can mark one by one as the nodes are visited.
 
+ChatGPT wrote the test cases involving cycles, I wrote the tests for empty and single node cases.
+
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice
